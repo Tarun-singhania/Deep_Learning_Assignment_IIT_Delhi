@@ -494,9 +494,6 @@ This assignment demonstrates two important computer vision pipelines:
 1. Image Classification using a custom ResNet-style CNN
 2. Semantic Segmentation using a custom U-Net model
 ```
-
-The submission includes complete training and inference code for both tasks, along with report, model path information, and timestamp proof images.
-
 ---
 
 ## 👨‍💻 Author
