@@ -1,0 +1,43 @@
+{
+    "architecture": [
+        1
+    ],
+    "activation": "relu",
+    "feature_mean": {
+        "vendor_id": 1.5348847458689503,
+        "passenger_count": 1.6653399252532692,
+        "pickup_longitude": -73.97347416485722,
+        "pickup_latitude": 40.75094651069282,
+        "dropoff_longitude": -73.9734211912008,
+        "dropoff_latitude": 40.7518262525905,
+        "store_and_fwd_flag": 0.005567808761194381,
+        "day_of_week": 4.051875132217095,
+        "Weekend": 0.28586315236893856,
+        "day_of_hours": 13.605070476608347,
+        "rush_hour": 0.46708871669108604,
+        "trip_distance(KM)": 3.439122438430786,
+        "is_anomaly": 0.04459829508504987,
+        "is_traffic": 0.3143760136643919,
+        "pickup_in_range": 0.9373467261088607,
+        "dropoff_in_range": 0.9224208852081391
+    },
+    "feature_std": {
+        "vendor_id": 0.4987815699338325,
+        "passenger_count": 1.3156803988628767,
+        "pickup_longitude": 0.06496416603630172,
+        "pickup_latitude": 0.03364036278001571,
+        "dropoff_longitude": 0.06496127180449823,
+        "dropoff_latitude": 0.035721886564306894,
+        "store_and_fwd_flag": 0.07440973233921183,
+        "day_of_week": 1.954661405662681,
+        "Weekend": 0.4518245350649205,
+        "day_of_hours": 6.4011852340362685,
+        "rush_hour": 0.49891567166301803,
+        "trip_distance(KM)": 4.414875030517578,
+        "is_anomaly": 0.2064201713993976,
+        "is_traffic": 0.46426687981900877,
+        "pickup_in_range": 0.24233827836695793,
+        "dropoff_in_range": 0.26750812275512714
+    },
+    "target_transform": "log1p"
+}
